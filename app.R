@@ -51,7 +51,7 @@ ui <- fluidPage(
       # ALTERAR O REPO NO GITHUB
       HTML(
         "Repository: <a href =
-               'https://github.com/arslabadack/mabacR.git'>
+               'https://github.com/slabaverse/mabacR_web.git'>
                GitHub</a>"
       ),
       p(),
