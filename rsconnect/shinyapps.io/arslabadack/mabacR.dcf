@@ -1,13 +1,12 @@
 name: mabacR
 title: mabacR
-username:
+username: arslabadack
 account: arslabadack
 server: shinyapps.io
 hostUrl: https://api.shinyapps.io/v1
-appId: 9888528
-bundleId: 7763307
+appId: 13353011
+bundleId: 9369847
 url: https://arslabadack.shinyapps.io/mabacR/
-when: 1696447987.63184
-lastSyncTime: 1696447987.63187
+version: 1
 asMultiple: FALSE
 asStatic: FALSE

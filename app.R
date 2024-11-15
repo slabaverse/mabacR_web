@@ -1,6 +1,6 @@
-# Load packages ----------------------------------------------------------------
-detach("package:mabacR", unload = TRUE)
-devtools::install_github("https://github.com/slabaverse/mabacR.git", ref = "master")
+# # Load packages ----------------------------------------------------------------
+# detach("package:mabacR", unload = TRUE)
+# devtools::install_github("https://github.com/slabaverse/mabacR.git", ref = "master")
 
 library(mabacR)
 library(shiny)
