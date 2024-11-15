@@ -29,8 +29,8 @@ The tool was developed using the **R programming language**, combined with the *
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/slabaverse/mabacR_.git
-   cd mabacR_
+   git clone https://github.com/slabaverse/mabacR_web.git
+   cd mabacR_web
    ```
 
 2. Ensure you have R and RStudio installed.
@@ -51,21 +51,21 @@ The tool was developed using the **R programming language**, combined with the *
 
 ## How to Use the Application
 
-1. Download the standard spreadsheet provided in the application.
-2. Fill in the spreadsheet with the criteria and alternatives you wish to evaluate.
-3. Upload the spreadsheet to the application.
-4. View the automatically generated results in the **Results** tab.
-5. Use the **Charts** tab to visualize the graphical analysis of alternatives against criteria.
+1. Download the standard spreadsheet provided in the application;
+3. Fill in the spreadsheet with the criteria and alternatives you wish to evaluate;
+4. Upload the spreadsheet to the application;
+5. View the automatically generated results in the **Results** tab.
+
 
 ## Results
 
-The tool has been validated using academic datasets and produced results consistent with original studies, demonstrating its accuracy and robustness.
+The tool has been validated using academic datasets, demonstrating its accuracy and robustness.
 
-Access the web version of the application [here](https://arslabadack.shinyapps.io/mabacR).
+Access the web version of the application [here](https://github.com/slabaverse/mabacR_web.git).
 
 ## References
 
-This project was developed as part of the **Final Graduation Project** to obtain a specialization in Data Science and Analytics - 2023.
+This project was developed as part of the **Final Graduation Project** to obtain a title of specialist in Data Science and Analytics - 2023.
 
 Authors:  
 - **Adam Roger Slabadack**: [arslabadack@gmail.com](mailto:arslabadack@gmail.com)  
