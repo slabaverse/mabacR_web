@@ -61,7 +61,7 @@ The tool was developed using the **R programming language**, combined with the *
 
 The tool has been validated using academic datasets, demonstrating its accuracy and robustness.
 
-Access the web version of the application [here](https://github.com/slabaverse/mabacR_web.git).
+Access the web version of the application [here](https://arslabadack.shinyapps.io/mabacR/).
 
 ## References
 
